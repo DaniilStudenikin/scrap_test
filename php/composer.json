@@ -1,0 +1,9 @@
+{
+  "require": {
+    "simplehtmldom/simplehtmldom": "^2.0@RC",
+    "ext-iconv": "*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+
+}
